@@ -1,0 +1,25 @@
+table {
+  margin-top: 30px;
+  margin-right: 150px;
+  border-collapse: collapse;
+  border: 1px solid black;
+  background-color: #033d03;
+}
+
+td {
+  height: 70px;
+  width: 70px;
+  text-align: center;
+  border: 1px solid black;
+}
+
+h1 {
+  float: left;
+  font-size: 70px;
+  margin-left: 70px;
+}
+
+img {
+  height: 60px;
+  width: 60px;
+}
